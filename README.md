@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application is a text editor that runs in the browser as a single-page application.  This app not only meets the Progressive Web Application criteria, but also features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+This application is a text editor that runs in the browser as a single-page application.  This app not only meets the Progressive Web Application criteria, but also features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.  Site is deployed here:  https://thawing-falls-01629.herokuapp.com/ 
 
 ## Table of Contents
 
